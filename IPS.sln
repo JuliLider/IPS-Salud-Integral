@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPSweb", "IPS\IPSweb.csproj", "{FD8DFA34-77F6-4FED-AC00-151A4ACF43CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPSlogic", "IPSlogic\IPSlogic.csproj", "{5A681C52-DF43-48BD-8641-908C9C48B3ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPSentity", "IPSentity\IPSentity.csproj", "{7C2786C4-C22F-415D-994D-548CB888B02B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD8DFA34-77F6-4FED-AC00-151A4ACF43CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD8DFA34-77F6-4FED-AC00-151A4ACF43CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD8DFA34-77F6-4FED-AC00-151A4ACF43CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD8DFA34-77F6-4FED-AC00-151A4ACF43CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A681C52-DF43-48BD-8641-908C9C48B3ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A681C52-DF43-48BD-8641-908C9C48B3ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A681C52-DF43-48BD-8641-908C9C48B3ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A681C52-DF43-48BD-8641-908C9C48B3ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C2786C4-C22F-415D-994D-548CB888B02B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C2786C4-C22F-415D-994D-548CB888B02B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C2786C4-C22F-415D-994D-548CB888B02B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C2786C4-C22F-415D-994D-548CB888B02B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAFB4DEA-3E4F-4E0F-B021-4013DA3340FE}
+	EndGlobalSection
+EndGlobal
